@@ -1,0 +1,9 @@
+{
+	"applications": {},
+	"bootstrapPlugins": {
+		"ZUI5Footer": {
+			"component": "zfooterplugin",
+			"url": "../../../../../"
+		}
+	}
+}
